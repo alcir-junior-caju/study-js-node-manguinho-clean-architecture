@@ -1,0 +1,10 @@
+{
+  "name": "CleanNodeAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alcir Junior Caju <junior@cajucomunica.com.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
+}
