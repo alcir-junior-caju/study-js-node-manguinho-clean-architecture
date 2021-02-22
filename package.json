@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "Alcir Junior Caju <junior@cajucomunica.com.br>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:staged": "jest"
+  },
   "devDependencies": {
     "@types/jest": "^26.0.20",
     "@types/node": "^14.14.31",
